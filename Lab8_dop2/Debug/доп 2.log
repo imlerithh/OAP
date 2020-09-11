@@ -1,0 +1,19 @@
+﻿Сборка начата 01.04.20 15:52:55.
+Уровень детализации журнала: Normal.     1>Проект "D:\Education\Practice\OAP\Lab8_dop2\доп 2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\доп 2.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         доп 2.vcxproj -> D:\Education\Practice\OAP\Lab8_dop2\Debug\доп 2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\доп 2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\доп 2.tlog\доп 2.lastbuildstate".
+     1>Сборка проекта "D:\Education\Practice\OAP\Lab8_dop2\доп 2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.04

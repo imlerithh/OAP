@@ -1,0 +1,19 @@
+﻿Сборка начата 25.03.20 16:09:32.
+Уровень детализации журнала: Normal.     1>Проект "D:\Education\Practice\OAP\Lab7_dop2\ConsoleApplication1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\ConsoleA.39D8158B.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         ConsoleApplication1.vcxproj -> D:\Education\Practice\OAP\Lab7_dop2\Debug\ConsoleApplication1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ConsoleA.39D8158B.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ConsoleA.39D8158B.tlog\ConsoleApplication1.lastbuildstate".
+     1>Сборка проекта "D:\Education\Practice\OAP\Lab7_dop2\ConsoleApplication1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.40

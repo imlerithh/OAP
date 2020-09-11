@@ -1,0 +1,4 @@
+10 20 30 
+hello world
+new1
+atoday day

@@ -1,0 +1,28 @@
+﻿Сборка начата 27.04.20 18:05:09.
+Уровень детализации журнала: Normal.     1>Проект "D:\Education\Practice\OAP\Lab11\Lab11\Lab11.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab11.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Source.cpp
+         Source.cpp
+     1>D:\Education\Practice\OAP\Lab11\Lab11\Source.cpp(170,23): warning C4101: n: неиспользованная локальная переменная
+     1>D:\Education\Practice\OAP\Lab11\Lab11\Source.cpp(165): warning C4715: task12: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Education\Practice\OAP\Lab11\Debug\Lab11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\Education\Practice\OAP\Lab11\Debug\Lab11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Education\Practice\OAP\Lab11\Debug\Lab11.lib" /MACHINE:X86 Debug\Source.obj
+         Lab11.vcxproj -> D:\Education\Practice\OAP\Lab11\Debug\Lab11.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab11.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab11.tlog\Lab11.lastbuildstate".
+     1>Сборка проекта "D:\Education\Practice\OAP\Lab11\Lab11\Lab11.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Education\Practice\OAP\Lab11\Lab11\Lab11.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Education\Practice\OAP\Lab11\Lab11\Source.cpp(170,23): warning C4101: n: неиспользованная локальная переменная
+         D:\Education\Practice\OAP\Lab11\Lab11\Source.cpp(165): warning C4715: task12: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.34
